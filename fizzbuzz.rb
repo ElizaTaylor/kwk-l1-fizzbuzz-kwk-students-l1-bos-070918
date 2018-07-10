@@ -1,7 +1,7 @@
 def fizzbuzz(int)
   
-if int % 3 == 0  
-  puts "hello"
+if int % 15 == 0  
+  puts "fizzbuzz"
   
 end 
 
@@ -9,4 +9,4 @@ end
 
 and 
 
-fizzbuzz(2)
+fizzbuzz(3)
