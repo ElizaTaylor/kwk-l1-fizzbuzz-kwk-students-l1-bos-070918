@@ -1,15 +1,15 @@
 def fizzbuzz(int)
   
-if (int % 3 == 0)&&(int % 5 == 0)
-  puts "fizzbuzz"
+  if (int % 3 == 0)&&(int % 5 == 0)
+    "fizzbuzz"
   end 
 
 if int % 3 == 0
-  "fizz"
-  and 
+    "fizz"
+end
 
 if int % 5 == 0 
-  "buzz"
-and
-
+    "buzz"
+end 
+end 
 puts fizzbuzz(3)
