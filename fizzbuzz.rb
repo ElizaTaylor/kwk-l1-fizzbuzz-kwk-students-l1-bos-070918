@@ -6,7 +6,6 @@ if int % 15 == 0
 end 
 
 
-
 and 
 
-fizzbuzz(3)
+puts fizzbuzz(3)
